@@ -17,3 +17,8 @@ This project explores a Netflix dataset to uncover trends in content, including 
 1. Clone the repository:  
    ```bash
    git clone <repo_url>
+
+## Missing Visualization The Visualization for problem statement 4 looks like this
+
+<img width="667" height="279" alt="image" src="https://github.com/user-attachments/assets/10a667d9-d837-4dfc-aaf8-0e274e790bf8" />
+
